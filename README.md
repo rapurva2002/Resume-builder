@@ -64,6 +64,8 @@ Resume Creation
 
 ![Screen-3](https://user-images.githubusercontent.com/82507299/202916897-98dc56cb-ce94-4179-b065-b051f4a77c9e.png)
 
+![Registration](https://user-images.githubusercontent.com/82507299/204263294-746cd1d4-c612-4973-a691-74bd179051de.png)
+
 ![Login](https://user-images.githubusercontent.com/82507299/202916904-3548d70f-56b1-4735-9cee-1cee8189a6b8.png)
 
 ![Home_Page](https://user-images.githubusercontent.com/82507299/204210128-7e2a4ef6-3d51-4785-a9db-481e38ae4fe6.png)
