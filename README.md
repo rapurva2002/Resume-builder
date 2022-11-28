@@ -1,27 +1,27 @@
 # Resume-builder
 
-#Problem Statement:
+# Problem Statement:
 Implementing a Web Application to create resumes by asking user to fill simple forms where important credentials are required. 
 
 A  resume is a document that contains a summary or listing of relevant job experience  and education. The list of qualifications or CV is normally the principal thing that a potential business experiences with respect to the work searcher and is regularly used to screen candidates, frequently followed by a meeting, when looking for business. 
 A resume builder is an online tool that you can use to quickly create a resume. Resume builders allow you to pick a pre-formatted resume template, fill in your contact and background information, and select pre-written work history bullet points — saving you a lot of time.
 
 
-#Scope:
+# Scope:
 Customers can utilise online resume builders to create resumes that meet their needs. Customers can personalise their resumes by choosing from a variety of themes and elements.
 
 
-#Motivation:
+# Motivation:
 A resume (or “CV” outside of the US) is a formal document that provides an overview of your professional qualifications, including your relevant work experience, skills, education, and notable accomplishments. They are generally used when trying to get a job or an internship. Unfortunately, Recruiters spend 5 to 7 seconds on average going over resumes and 76% of the resumes are rejected due to an unprofessional email address, thus, a single typo on your resume can take your dream job away. That's why using a resume builder is more efficient way of creating resumes.
 
 
 
-#Architecture Diagram
+# Architecture Diagram
 ![Database](https://user-images.githubusercontent.com/82507299/204210355-c8ba7cfd-6c92-4dc5-87b2-22a7f99e1634.jpg)
 
 
 
-#UML Diagrams
+# UML Diagrams
 ![usecase](https://user-images.githubusercontent.com/82507299/204210321-a5548fdf-6d54-410a-9cf8-e0a7cb1e69b5.png)
 
 ![class](https://user-images.githubusercontent.com/82507299/204210307-0376ca00-a11f-4f0e-885e-fcc88d1020b7.png)
@@ -31,7 +31,7 @@ A resume (or “CV” outside of the US) is a formal document that provides an o
 ![seq](https://user-images.githubusercontent.com/82507299/204210315-df21f895-fb83-4ded-b3a7-376c5a900083.png)
 
 
-#Requirements:
+# Requirements:
 dotenv
 nodemon
 Post-Man
@@ -45,7 +45,7 @@ cookie-parser
 React Developer Tools 
 
 
-#Implemented Features:
+# Implemented Features:
 Registration
 Login
 Profile & Survey Forms
@@ -53,7 +53,10 @@ Resume Creation
 
 
 
-#UI/UX:
+# UI/UX & Wireframe:
+
+![Untitled](https://user-images.githubusercontent.com/82507299/204211438-20a49be4-5f63-4a4c-99ac-4e55b59d8c75.jpg)
+
 
 ![Screen - 1](https://user-images.githubusercontent.com/82507299/202916892-80851525-a0a4-4e36-a4c0-eea288baa7ab.png)
 
@@ -73,7 +76,7 @@ Resume Creation
 
 
 
-#Future Scope:
+# Future Scope:
 Implementation of UI/UX Design
 Adding creative templates
 
