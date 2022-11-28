@@ -75,10 +75,25 @@ Resume Creation
 ![Template](https://user-images.githubusercontent.com/82507299/204210185-4e6d02da-f480-45b9-a554-f1b6f0bebf4d.png)
 
 
+# Output
+![image](https://user-images.githubusercontent.com/82507299/204262720-53e2fb53-a862-4fbf-8d48-e0022ef19c1e.png)
+
+
+
 
 # Future Scope:
 Implementation of UI/UX Design
 Adding creative templates
+
+
+
+
+
+
+
+
+
+
 
 
 
