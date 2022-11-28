@@ -1,0 +1,33 @@
+.i{
+    color: aqua;
+}
+
+.b{
+    color:#FFFFFF;
+}
+
+.button{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12.8px 50.9091px;
+gap: 8.48px;
+
+position: absolute;
+width: 193.7px;
+height: 66.6px;
+left: 1195.11px;
+top: 45px;
+
+background: #366ED8;
+border-radius: 33.9394px;
+}
+
+.nav{
+    background-color: #F9F6EE;
+}
+
+.NavLink{
+    color: 
+}
